@@ -1,4 +1,4 @@
-# Deep Learning Concepts - Keras and Tensorflow
+# Deep Learning Projects - Keras and Tensorflow
 
 ## Perceptrons and Multi Layer Perceptrons
 ### Callbacks
